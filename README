@@ -1,0 +1,9 @@
+Copyright (C) 2010 by Will Kamp <manimaul!gmail.com>
+Published under the terms of "Simplified BSD License"
+License text available in licence.txt
+
+Turn two GPS antennas into a satellite compass
+
+Supports: reading from most GPS devices
+Requires: GPS that produce latitude, longitude as (RMC and GGA sentences) every 1 second or less
+Outputs: Properly formated NMEA0183 HDT sentence
